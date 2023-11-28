@@ -1,0 +1,11 @@
+features:
+pngs for all game elements
+collisions are based off of the pngs
+both wasd and arrow keys work for movement
+the player can 'dive' (press down to go faster than gravity would have them go)
+end screen for both victory and defeat
+utilization of callbacks to change the level
+utilization of callbacks in the event of a gameover
+platforms have friction
+characters change their sprites to match the direction of their last input
+2 types of enemy
